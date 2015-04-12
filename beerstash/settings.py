@@ -109,5 +109,5 @@ OAUTH2_PROVIDER = {
     'SCOPES': {'read': 'Read scope', 'write': 'Write scope'}
 }
 
-SOCIAL_AUTH_FACEBOOK_KEY = '1586828871554467'
-SOCIAL_AUTH_FACEBOOK_SECRET = '14fbd82695c09f4ddc965baf2581e4b8'
+SOCIAL_AUTH_FACEBOOK_KEY = # your facebook key
+SOCIAL_AUTH_FACEBOOK_SECRET = # your facebook secret
